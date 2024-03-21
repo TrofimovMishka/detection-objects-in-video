@@ -83,3 +83,9 @@ w
 G.idea/sonarlint/issuestore/b/4/b4a0b63ce8560bbc5de0f9995c20cc861dc2adb3,b/0/b04578cffb47b1e57970601a0cacef6081245859
 w
 G.idea/sonarlint/issuestore/c/b/cb84300b02ebfdfe086f302a2e3a3da2207478af,5/5/5528d8d083d9fb449ddce8b1107be9c494d5d9f3
+>
+yolov8/main.py,3/6/36f19a6ac783c66e6118d7d315a8f5fdfe54c4e1
+D
+opencv/open-cv-ex.py,d/0/d00b359268ae28b55188d065f008a5683ba68a92
+G
+yolov8/ultra-yolo-ex.py,4/1/41081b58a9900281b1c3fb8a6afc4701573b9c1a

@@ -8,7 +8,9 @@ while True:
         print("Can't receive frame (stream end?). Exiting ...")
         break
 
-    modified_to_gray = cv.cvtColor(frame, cv.COLOR_BGR2YCrCb)
+    modified_to_gray = cv.cvtColor(frame, cv.ADAPTIVE_THRESH_GAUSSIAN_C)
+    # modified_to_gray = cv.cvtColor(frame, cv.COLOR_BGR2GRAY)
+    # modified_to_gray = cv.cvtColor(frame, cv.COLOR_BGR2YCrCb)
 
     cv.imshow('From camera [0]', modified_to_gray)
 
